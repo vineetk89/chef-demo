@@ -1,0 +1,1 @@
+mount -t cifs -o username=vineet.sharma,password=Kumar##4509 //172.16.20.35/vmStuf /mnt
